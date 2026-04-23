@@ -7,6 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @SpringBootApplication
+/**
+ * Spring Boot 应用启动入口类，同时提供简单的示例接口。
+ */
 public class DemoApplication {
 
 	public static void main(String[] args) {
